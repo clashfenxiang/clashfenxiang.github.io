@@ -1,4 +1,4 @@
-# Clash分享 | 8月12日20.6M/S|免费SSR/Clash/V2ray/Shadowrocket节点推荐，在线VPN机场梯子购买推荐  更新时间 2025-08-12 14:03:01
+# Clash分享 | 8月15日22.8M/S|免费SSR/Shadowrocket/V2ray/Clash节点推荐，在线VPN机场梯子购买推荐  更新时间 2025-08-15 09:56:19
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashfenxiang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://clashfenxiang.github.io/uploads/2025/08/0-20250812.yaml
-- https://clashfenxiang.github.io/uploads/2025/08/1-20250812.yaml
-- https://clashfenxiang.github.io/uploads/2025/08/2-20250812.yaml
-- https://clashfenxiang.github.io/uploads/2025/08/3-20250812.yaml
-- https://clashfenxiang.github.io/uploads/2025/08/4-20250812.yaml
+- https://clashfenxiang.github.io/uploads/2025/08/0-20250815.yaml
+- https://clashfenxiang.github.io/uploads/2025/08/1-20250815.yaml
+- https://clashfenxiang.github.io/uploads/2025/08/2-20250815.yaml
+- https://clashfenxiang.github.io/uploads/2025/08/3-20250815.yaml
+- https://clashfenxiang.github.io/uploads/2025/08/4-20250815.yaml
 
 ### V2ray订阅链接
 
-- https://clashfenxiang.github.io/uploads/2025/08/0-20250812.txt
-- https://clashfenxiang.github.io/uploads/2025/08/1-20250812.txt
-- https://clashfenxiang.github.io/uploads/2025/08/2-20250812.txt
-- https://clashfenxiang.github.io/uploads/2025/08/3-20250812.txt
-- https://clashfenxiang.github.io/uploads/2025/08/4-20250812.txt
+- https://clashfenxiang.github.io/uploads/2025/08/0-20250815.txt
+- https://clashfenxiang.github.io/uploads/2025/08/1-20250815.txt
+- https://clashfenxiang.github.io/uploads/2025/08/2-20250815.txt
+- https://clashfenxiang.github.io/uploads/2025/08/3-20250815.txt
+- https://clashfenxiang.github.io/uploads/2025/08/4-20250815.txt
 
 ### Sing-box订阅链接
 
-- https://clashfenxiang.github.io/uploads/2025/08/20250812.json
+- https://clashfenxiang.github.io/uploads/2025/08/20250815.json
 
 ## 更多clash节点订阅 ：
 
